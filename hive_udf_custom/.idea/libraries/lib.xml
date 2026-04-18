@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://E:/360MoveData/Users/Administrator/Desktop/apache-hive-3.1.2-bin/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/360MoveData/Users/Administrator/Desktop/apache-hive-3.1.2-bin/lib" />
+      <root url="jar://E:/360MoveData/Users/Administrator/Desktop/apache-hive-3.1.2-bin/lib/arrow-vector-0.8.0.jar!/codegen/templates" />
+    </SOURCES>
+    <jarDirectory url="file://E:/360MoveData/Users/Administrator/Desktop/apache-hive-3.1.2-bin/lib" recursive="false" />
+    <jarDirectory url="file://E:/360MoveData/Users/Administrator/Desktop/apache-hive-3.1.2-bin/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
