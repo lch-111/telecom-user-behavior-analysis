@@ -56,7 +56,7 @@ telecom-user-behavior-analysis
 - Top N 高频访问网站
 - 搜索类业务（如百度）占主导地位
 
-### 3️⃣ 网络制式统计
+### 3️⃣ 用户访问统计情况分析
 <img width="962" height="666" alt="电信用户行为分析_用户访问统计情况分析" src="https://github.com/user-attachments/assets/431116f4-8d19-43d0-afd3-e708a5624e24" />
 
 - 对比 4G / 5G / WIFI
